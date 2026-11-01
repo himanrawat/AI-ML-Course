@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+pydantic
+pytest
+anthropic
+fastapi
+httpx

@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI/ML Course Tracker</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="tracker.css">
+</head>
+<body>
+  <div id="offline" class="banner banner-danger" hidden>
+    Can't reach the tracker server. Start it from the <code>AI-ML-Course</code> folder with
+    <code>python3 00-Tracker/server.py</code>, then reload this page.
+  </div>
+
+  <header class="topbar">
+    <div class="wrap topbar-inner">
+      <div>
+        <h1>AI/ML Course Tracker</h1>
+        <p class="muted small" id="course-root"></p>
+      </div>
+      <div class="overall" aria-label="Overall course completion">
+        <div class="overall-figure"><span id="overall-percent">0</span><span class="unit">%</span></div>
+        <div class="bar bar-lg"><span id="overall-bar" style="width:0%"></span></div>
+        <p class="muted small" id="overall-caption"></p>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="position" aria-label="Learning position">
+      <article class="card" id="current-card">
+        <h2 class="eyebrow">Current position</h2>
+        <div class="card-body" id="current-topic"></div>
+      </article>
+      <article class="card" id="next-card">
+        <h2 class="eyebrow">Next recommended</h2>
+        <div class="card-body" id="next-topic"></div>
+      </article>
+    </section>
+
+    <section class="stats" aria-label="Course statistics" id="stats"></section>
+
+    <section id="issues" class="issues" hidden aria-label="Sync issues"></section>
+
+    <div class="toolbar">
+      <div class="segmented" role="tablist" aria-label="View">
+        <button type="button" role="tab" data-view="modules" aria-selected="true">Modules</button>
+        <button type="button" role="tab" data-view="path" aria-selected="false">Learning path</button>
+      </div>
+      <label class="field">
+        <span class="visually-hidden">Status filter</span>
+        <select id="filter">
+          <option value="all">All topics</option>
+          <option value="not_started">Not started</option>
+          <option value="in_progress">In progress</option>
+          <option value="completed">Completed</option>
+        </select>
+      </label>
+      <label class="field field-grow">
+        <span class="visually-hidden">Search topics</span>
+        <input id="search" type="search" placeholder="Search title, path or ID" autocomplete="off">
+      </label>
+      <span class="muted small" id="editor-status"></span>
+    </div>
+
+    <div id="content"></div>
+
+    <footer class="legend">
+      <h2 class="eyebrow">How completion works</h2>
+      <p>
+        A topic is <strong>completed</strong> only when all five requirements are done:
+        <strong>Theory</strong>, the <strong>Beginner</strong>, <strong>Intermediate</strong> and
+        <strong>Advanced</strong> exercises, and the final <strong>Assessment</strong>.
+        Opening a file never completes anything. An exercise can be marked done only after you write code
+        under its <code># YOUR CODE:</code> line (chips with a dot have code detected). The assessment unlocks
+        once the other four are done; ask your tutor to assess you, then mark it.
+      </p>
+      <p class="muted small">
+        Click a topic title to open its file in your editor. Progress is saved to
+        <code>00-Tracker/progress.json</code>; <code>PROGRESS.md</code> and <code>COURSE-MAP.md</code> are
+        regenerated automatically. The page refreshes every few seconds, so new, renamed or deleted
+        topic files show up on their own.
+      </p>
+    </footer>
+  </main>
+
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+  <script src="tracker.js"></script>
+</body>
+</html>

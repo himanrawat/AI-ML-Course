@@ -1,0 +1,1956 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-01T16:14:43+00:00",
+  "topics": {
+    "python.variables.basics": {
+      "path": "01-Python/01-Variables/01-basics.py",
+      "title": "Python Variables",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": "2026-11-01T16:14:43+00:00",
+      "missingSince": null
+    },
+    "python.variables.data-types": {
+      "path": "01-Python/01-Variables/02-data-types.py",
+      "title": "Python Data Types",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.variables.type-conversion": {
+      "path": "01-Python/01-Variables/03-type-conversion.py",
+      "title": "Type Conversion",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.variables.strings": {
+      "path": "01-Python/01-Variables/04-strings.py",
+      "title": "Strings",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.variables.input-output": {
+      "path": "01-Python/01-Variables/05-input-output.py",
+      "title": "Input and Output",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.data-structures.lists": {
+      "path": "01-Python/02-Data-Structures/01-lists.py",
+      "title": "Lists",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.data-structures.tuples": {
+      "path": "01-Python/02-Data-Structures/02-tuples.py",
+      "title": "Tuples",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.data-structures.sets": {
+      "path": "01-Python/02-Data-Structures/03-sets.py",
+      "title": "Sets",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.data-structures.dictionaries": {
+      "path": "01-Python/02-Data-Structures/04-dictionaries.py",
+      "title": "Dictionaries",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.data-structures.comprehensions": {
+      "path": "01-Python/02-Data-Structures/05-comprehensions.py",
+      "title": "Comprehensions",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.operators.arithmetic": {
+      "path": "01-Python/03-Operators/01-arithmetic-operators.py",
+      "title": "Arithmetic Operators",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.operators.comparison-logical": {
+      "path": "01-Python/03-Operators/02-comparison-and-logical-operators.py",
+      "title": "Comparison and Logical Operators",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.operators.assignment-identity-membership": {
+      "path": "01-Python/03-Operators/03-assignment-identity-membership.py",
+      "title": "Assignment, Identity and Membership Operators",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.conditions.if-elif-else": {
+      "path": "01-Python/04-Conditions/01-if-elif-else.py",
+      "title": "if, elif and else",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.conditions.match-case": {
+      "path": "01-Python/04-Conditions/02-match-case.py",
+      "title": "match-case (Structural Pattern Matching)",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.loops.for-loops": {
+      "path": "01-Python/05-Loops/01-for-loops.py",
+      "title": "For Loops",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.loops.while-loops": {
+      "path": "01-Python/05-Loops/02-while-loops.py",
+      "title": "While Loops",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.loops.loop-control": {
+      "path": "01-Python/05-Loops/03-loop-control.py",
+      "title": "Loop Control (break, continue, else, pass)",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.functions.defining": {
+      "path": "01-Python/06-Functions/01-defining-functions.py",
+      "title": "Defining Functions",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.functions.arguments": {
+      "path": "01-Python/06-Functions/02-function-arguments.py",
+      "title": "Function Arguments",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.functions.scope-closures": {
+      "path": "01-Python/06-Functions/03-scope-and-closures.py",
+      "title": "Scope and Closures",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.functions.lambda-higher-order": {
+      "path": "01-Python/06-Functions/04-lambda-and-higher-order-functions.py",
+      "title": "Lambda and Higher-Order Functions",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.functions.recursion": {
+      "path": "01-Python/06-Functions/05-recursion.py",
+      "title": "Recursion",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.oop.classes-objects": {
+      "path": "01-Python/07-OOP/01-classes-and-objects.py",
+      "title": "Classes and Objects",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.oop.inheritance": {
+      "path": "01-Python/07-OOP/02-inheritance.py",
+      "title": "Inheritance and Polymorphism",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.oop.special-methods": {
+      "path": "01-Python/07-OOP/03-special-methods.py",
+      "title": "Special (Dunder) Methods",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.oop.properties-classmethods": {
+      "path": "01-Python/07-OOP/04-properties-and-class-methods.py",
+      "title": "Properties, Class Methods and Static Methods",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.oop.dataclasses-enums": {
+      "path": "01-Python/07-OOP/05-dataclasses-and-enums.py",
+      "title": "Dataclasses and Enums",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.exceptions.try-except": {
+      "path": "01-Python/08-Exceptions/01-try-except.py",
+      "title": "Handling Exceptions (try / except)",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.exceptions.raising-custom": {
+      "path": "01-Python/08-Exceptions/02-raising-and-custom-exceptions.py",
+      "title": "Raising and Custom Exceptions",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.files.read-write": {
+      "path": "01-Python/09-File-Handling/01-reading-and-writing-files.py",
+      "title": "Reading and Writing Files",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.files.pathlib": {
+      "path": "01-Python/09-File-Handling/02-pathlib.py",
+      "title": "pathlib (Working with Paths)",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.files.csv-json": {
+      "path": "01-Python/09-File-Handling/03-csv-and-json-files.py",
+      "title": "CSV and JSON Files",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.modules.imports-stdlib": {
+      "path": "01-Python/10-Modules-and-Packages/01-imports-and-standard-library.py",
+      "title": "Imports and the Standard Library",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.modules.creating-packages": {
+      "path": "01-Python/10-Modules-and-Packages/02-creating-modules-and-packages.py",
+      "title": "Creating Modules and Packages",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.advanced.iterators-generators": {
+      "path": "01-Python/11-Advanced-Python/01-iterators-and-generators.py",
+      "title": "Iterators and Generators",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.advanced.decorators": {
+      "path": "01-Python/11-Advanced-Python/02-decorators.py",
+      "title": "Decorators",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.advanced.context-managers": {
+      "path": "01-Python/11-Advanced-Python/03-context-managers.py",
+      "title": "Context Managers",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.advanced.type-hints": {
+      "path": "01-Python/11-Advanced-Python/04-type-hints.py",
+      "title": "Type Hints",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.advanced.pydantic": {
+      "path": "01-Python/11-Advanced-Python/05-pydantic-validation.py",
+      "title": "Data Validation with Pydantic",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.async.basics": {
+      "path": "01-Python/12-Async-Programming/01-async-await-basics.py",
+      "title": "async / await Basics",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.async.concurrent-tasks": {
+      "path": "01-Python/12-Async-Programming/02-concurrent-tasks.py",
+      "title": "Running Tasks Concurrently",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.async.threads-processes": {
+      "path": "01-Python/12-Async-Programming/03-threads-and-processes.py",
+      "title": "Threads and Processes",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.apis.json": {
+      "path": "01-Python/13-APIs-and-JSON/01-working-with-json.py",
+      "title": "Working with JSON Data",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.apis.http-requests": {
+      "path": "01-Python/13-APIs-and-JSON/02-http-requests.py",
+      "title": "Making HTTP Requests",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.apis.retries-rate-limits": {
+      "path": "01-Python/13-APIs-and-JSON/03-api-errors-retries-and-rate-limits.py",
+      "title": "API Errors, Retries and Rate Limits",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.debugging.tracebacks": {
+      "path": "01-Python/14-Debugging/01-reading-tracebacks.py",
+      "title": "Reading Tracebacks",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.debugging.logging": {
+      "path": "01-Python/14-Debugging/02-logging.py",
+      "title": "Logging",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.debugging.debugger": {
+      "path": "01-Python/14-Debugging/03-using-a-debugger.py",
+      "title": "Using a Debugger",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.testing.pytest-basics": {
+      "path": "01-Python/15-Testing/01-pytest-basics.py",
+      "title": "Testing with pytest",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.testing.fixtures-mocking": {
+      "path": "01-Python/15-Testing/02-fixtures-and-mocking.py",
+      "title": "Fixtures and Mocking",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.tooling.virtual-environments": {
+      "path": "01-Python/16-Git-and-Environments/01-virtual-environments.py",
+      "title": "Virtual Environments and Packages",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.tooling.git": {
+      "path": "01-Python/16-Git-and-Environments/02-git-basics.py",
+      "title": "Git for ML Projects",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "python.tooling.project-tooling": {
+      "path": "01-Python/16-Git-and-Environments/03-project-tooling.py",
+      "title": "Project Tooling (pyproject, Linting, Formatting)",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "math.linear-algebra.vectors": {
+      "path": "02-Mathematics/01-Linear-Algebra/01-vectors.py",
+      "title": "Vectors",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "math.linear-algebra.matrices": {
+      "path": "02-Mathematics/01-Linear-Algebra/02-matrices.py",
+      "title": "Matrices",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "math.linear-algebra.matrix-multiplication": {
+      "path": "02-Mathematics/01-Linear-Algebra/03-matrix-multiplication.py",
+      "title": "Matrix Multiplication",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "math.linear-algebra.norms-distances": {
+      "path": "02-Mathematics/01-Linear-Algebra/04-norms-and-distances.py",
+      "title": "Norms, Distances and Cosine Similarity",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "math.linear-algebra.eigen-pca": {
+      "path": "02-Mathematics/01-Linear-Algebra/05-eigenvectors-and-pca-intuition.py",
+      "title": "Eigenvectors, Eigenvalues and PCA Intuition",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "math.calculus.derivatives": {
+      "path": "02-Mathematics/02-Calculus/01-derivatives.py",
+      "title": "Derivatives",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "math.calculus.gradients": {
+      "path": "02-Mathematics/02-Calculus/02-partial-derivatives-and-gradients.py",
+      "title": "Partial Derivatives and Gradients",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "math.calculus.chain-rule": {
+      "path": "02-Mathematics/02-Calculus/03-chain-rule.py",
+      "title": "The Chain Rule",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "math.calculus.gradient-descent": {
+      "path": "02-Mathematics/02-Calculus/04-gradient-descent.py",
+      "title": "Gradient Descent",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "math.statistics.descriptive": {
+      "path": "02-Mathematics/03-Probability-and-Statistics/01-descriptive-statistics.py",
+      "title": "Descriptive Statistics",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "math.probability.basics": {
+      "path": "02-Mathematics/03-Probability-and-Statistics/02-probability-basics.py",
+      "title": "Probability Basics",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "math.probability.distributions": {
+      "path": "02-Mathematics/03-Probability-and-Statistics/03-probability-distributions.py",
+      "title": "Probability Distributions",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "math.probability.bayes": {
+      "path": "02-Mathematics/03-Probability-and-Statistics/04-bayes-theorem.py",
+      "title": "Bayes' Theorem",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "data-science.numpy.arrays": {
+      "path": "03-Data-Science/01-NumPy/01-arrays-and-dtypes.py",
+      "title": "NumPy Arrays and dtypes",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "data-science.numpy.indexing-broadcasting": {
+      "path": "03-Data-Science/01-NumPy/02-indexing-and-broadcasting.py",
+      "title": "Indexing, Vectorization and Broadcasting",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "data-science.pandas.dataframes": {
+      "path": "03-Data-Science/02-Pandas/01-series-and-dataframes.py",
+      "title": "pandas Series and DataFrames",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "data-science.pandas.cleaning": {
+      "path": "03-Data-Science/02-Pandas/02-cleaning-data.py",
+      "title": "Cleaning Data with pandas",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "data-science.pandas.groupby-merge": {
+      "path": "03-Data-Science/02-Pandas/03-groupby-merge-reshape.py",
+      "title": "Groupby, Merge and Reshape",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "data-science.visualization.matplotlib": {
+      "path": "03-Data-Science/03-Visualization/01-matplotlib-basics.py",
+      "title": "Matplotlib Basics",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "data-science.visualization.dataframe-plots": {
+      "path": "03-Data-Science/03-Visualization/02-plotting-with-pandas-and-seaborn-style.py",
+      "title": "Plotting DataFrames and Correlation Heatmaps",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "data-science.eda.workflow": {
+      "path": "03-Data-Science/04-Exploratory-Data-Analysis/01-eda-workflow.py",
+      "title": "The Exploratory Data Analysis Workflow",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "data-science.eda.sql": {
+      "path": "03-Data-Science/04-Exploratory-Data-Analysis/02-sql-for-data-analysis.py",
+      "title": "SQL for Data Analysis",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "ml.fundamentals.what-is-ml": {
+      "path": "04-Machine-Learning/01-ML-Fundamentals/01-what-is-machine-learning.py",
+      "title": "What Is Machine Learning",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "ml.fundamentals.splits-leakage": {
+      "path": "04-Machine-Learning/01-ML-Fundamentals/02-train-test-split-and-data-leakage.py",
+      "title": "Train/Validation/Test Splits and Data Leakage",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "ml.fundamentals.bias-variance": {
+      "path": "04-Machine-Learning/01-ML-Fundamentals/03-bias-variance-and-regularization.py",
+      "title": "Overfitting, Bias-Variance and Regularization",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "ml.supervised.linear-regression": {
+      "path": "04-Machine-Learning/02-Supervised-Learning/01-linear-regression.py",
+      "title": "Linear Regression",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "ml.supervised.logistic-regression": {
+      "path": "04-Machine-Learning/02-Supervised-Learning/02-logistic-regression.py",
+      "title": "Logistic Regression",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "ml.supervised.knn-trees": {
+      "path": "04-Machine-Learning/02-Supervised-Learning/03-knn-and-decision-trees.py",
+      "title": "K-Nearest Neighbours and Decision Trees",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "ml.supervised.ensembles": {
+      "path": "04-Machine-Learning/02-Supervised-Learning/04-ensembles.py",
+      "title": "Ensembles: Random Forests and Gradient Boosting",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "ml.evaluation.classification-metrics": {
+      "path": "04-Machine-Learning/03-Model-Evaluation/01-classification-metrics.py",
+      "title": "Classification Metrics",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "ml.evaluation.regression-metrics-cv": {
+      "path": "04-Machine-Learning/03-Model-Evaluation/02-regression-metrics-and-cross-validation.py",
+      "title": "Regression Metrics and Cross-Validation",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "ml.features.pipelines": {
+      "path": "04-Machine-Learning/04-Feature-Engineering/01-preprocessing-and-pipelines.py",
+      "title": "Preprocessing and Pipelines",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "ml.features.hyperparameter-tuning": {
+      "path": "04-Machine-Learning/04-Feature-Engineering/02-hyperparameter-tuning.py",
+      "title": "Hyperparameter Tuning",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "ml.unsupervised.clustering": {
+      "path": "04-Machine-Learning/05-Unsupervised-Learning/01-clustering.py",
+      "title": "Clustering",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "ml.unsupervised.dimensionality-reduction": {
+      "path": "04-Machine-Learning/05-Unsupervised-Learning/02-dimensionality-reduction.py",
+      "title": "Dimensionality Reduction (PCA and Visualising Embeddings)",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "deep-learning.foundations.neurons-activations": {
+      "path": "05-Deep-Learning/01-Neural-Network-Foundations/01-perceptron-and-activations.py",
+      "title": "Neurons, Perceptrons and Activation Functions",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "deep-learning.foundations.network-from-scratch": {
+      "path": "05-Deep-Learning/01-Neural-Network-Foundations/02-neural-network-from-scratch.py",
+      "title": "A Neural Network from Scratch (Forward pass and Backpropagation)",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "deep-learning.pytorch.tensors-autograd": {
+      "path": "05-Deep-Learning/02-PyTorch/01-tensors-and-autograd.py",
+      "title": "PyTorch Tensors and Autograd",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "deep-learning.pytorch.training-loop": {
+      "path": "05-Deep-Learning/02-PyTorch/02-modules-and-training-loop.py",
+      "title": "nn.Module, DataLoaders and the Training Loop",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "deep-learning.pytorch.optimizers-regularization": {
+      "path": "05-Deep-Learning/02-PyTorch/03-optimizers-and-regularization.py",
+      "title": "Optimizers and Regularization in Deep Learning",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "deep-learning.architectures.cnn": {
+      "path": "05-Deep-Learning/03-Architectures/01-convolutional-neural-networks.py",
+      "title": "Convolutional Neural Networks (CNNs)",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "deep-learning.architectures.sequences-embeddings": {
+      "path": "05-Deep-Learning/03-Architectures/02-sequences-and-embeddings.py",
+      "title": "Sequences, Embeddings and Recurrent Networks",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "deep-learning.transformers.tokenization": {
+      "path": "05-Deep-Learning/04-Transformers/01-tokenization.py",
+      "title": "Tokenization",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "deep-learning.transformers.self-attention": {
+      "path": "05-Deep-Learning/04-Transformers/02-self-attention.py",
+      "title": "Self-Attention",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "deep-learning.transformers.tiny-gpt": {
+      "path": "05-Deep-Learning/04-Transformers/03-transformer-and-gpt.py",
+      "title": "The Transformer Block and a Tiny GPT",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.fundamentals.generation": {
+      "path": "06-Prompt-Engineering/01-LLM-Fundamentals/01-how-llms-generate-text.py",
+      "title": "How LLMs Generate Text",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.fundamentals.context-tokens": {
+      "path": "06-Prompt-Engineering/01-LLM-Fundamentals/02-context-windows-and-tokens.py",
+      "title": "Context Windows, Tokens and Cost",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.fundamentals.model-behavior": {
+      "path": "06-Prompt-Engineering/01-LLM-Fundamentals/03-model-behavior-and-hallucinations.py",
+      "title": "Model Behaviour, Limitations and Why Hallucinations Happen",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.fundamentals.calling-api": {
+      "path": "06-Prompt-Engineering/01-LLM-Fundamentals/04-calling-an-llm-api.py",
+      "title": "Calling an LLM API",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.foundations.anatomy": {
+      "path": "06-Prompt-Engineering/02-Prompting-Foundations/01-anatomy-of-a-prompt.py",
+      "title": "Anatomy of an Effective Prompt",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.foundations.instruction-roles": {
+      "path": "06-Prompt-Engineering/02-Prompting-Foundations/02-system-developer-and-user-instructions.py",
+      "title": "System, Developer and User Instructions",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.foundations.shot-prompting": {
+      "path": "06-Prompt-Engineering/02-Prompting-Foundations/03-zero-one-and-few-shot-prompting.py",
+      "title": "Zero-Shot, One-Shot and Few-Shot Prompting",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.foundations.role-context": {
+      "path": "06-Prompt-Engineering/02-Prompting-Foundations/04-role-and-contextual-prompting.py",
+      "title": "Role Prompting and Contextual Prompting",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.reasoning.decomposition-cot": {
+      "path": "06-Prompt-Engineering/03-Reasoning-and-Structure/01-task-decomposition-and-chain-of-thought.py",
+      "title": "Task Decomposition and Chain-Of-Thought",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.reasoning.react": {
+      "path": "06-Prompt-Engineering/03-Reasoning-and-Structure/02-react-prompting.py",
+      "title": "ReAct Prompting (Reason + Act)",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.reasoning.structured-output": {
+      "path": "06-Prompt-Engineering/03-Reasoning-and-Structure/03-structured-output-and-json-schema.py",
+      "title": "Structured Output and JSON Schema",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.reasoning.templates": {
+      "path": "06-Prompt-Engineering/03-Reasoning-and-Structure/04-prompt-templates-and-dynamic-prompts.py",
+      "title": "Prompt Templates and Dynamic Prompts",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.reasoning.multimodal": {
+      "path": "06-Prompt-Engineering/03-Reasoning-and-Structure/05-multimodal-prompting.py",
+      "title": "Multimodal Prompting (Images and Documents)",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.reasoning.chaining": {
+      "path": "06-Prompt-Engineering/03-Reasoning-and-Structure/06-prompt-chaining.py",
+      "title": "Prompt Chaining",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.evaluation.evaluation": {
+      "path": "06-Prompt-Engineering/04-Evaluation-and-Optimization/01-prompt-evaluation.py",
+      "title": "Prompt Evaluation",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.evaluation.optimization": {
+      "path": "06-Prompt-Engineering/04-Evaluation-and-Optimization/02-prompt-optimization.py",
+      "title": "Prompt Optimization",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.evaluation.versioning-ab": {
+      "path": "06-Prompt-Engineering/04-Evaluation-and-Optimization/03-prompt-versioning-and-ab-testing.py",
+      "title": "Prompt Versioning and A/B Testing",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.evaluation.cost-latency": {
+      "path": "06-Prompt-Engineering/04-Evaluation-and-Optimization/04-token-context-cost-and-latency-optimization.py",
+      "title": "Token, Context, Cost and Latency Optimization",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.safety.hallucination-mitigation": {
+      "path": "06-Prompt-Engineering/05-Reliability-and-Safety/01-hallucination-mitigation.py",
+      "title": "Hallucination Mitigation",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.safety.injection-jailbreaks": {
+      "path": "06-Prompt-Engineering/05-Reliability-and-Safety/02-prompt-injection-and-jailbreaks.py",
+      "title": "Prompt Injection and Jailbreak Awareness",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.safety.guardrails": {
+      "path": "06-Prompt-Engineering/05-Reliability-and-Safety/03-guardrails.py",
+      "title": "Guardrails",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.safety.observability": {
+      "path": "06-Prompt-Engineering/05-Reliability-and-Safety/04-production-observability.py",
+      "title": "Production Prompt Observability",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.strategy.prompt-context-finetuning": {
+      "path": "06-Prompt-Engineering/06-Strategy/01-prompt-vs-context-engineering-vs-fine-tuning.py",
+      "title": "Prompt Engineering vs Context Engineering vs Fine-Tuning",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.projects.resume-parser": {
+      "path": "06-Prompt-Engineering/07-Projects/01-resume-parser.py",
+      "title": "Project 1 - Resume Parsing and Structured Extraction",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.projects.support-assistant": {
+      "path": "06-Prompt-Engineering/07-Projects/02-customer-support-assistant.py",
+      "title": "Project 2 - Customer Support Assistant",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.projects.content-classification": {
+      "path": "06-Prompt-Engineering/07-Projects/03-content-classification.py",
+      "title": "Project 3 - AI Content Classification",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.projects.translation": {
+      "path": "06-Prompt-Engineering/07-Projects/04-multilingual-translation-assistant.py",
+      "title": "Project 4 - Multilingual Translation Assistant",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.projects.summarization": {
+      "path": "06-Prompt-Engineering/07-Projects/05-document-summarization.py",
+      "title": "Project 5 - Document Summarization",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.projects.json-extraction": {
+      "path": "06-Prompt-Engineering/07-Projects/06-structured-json-extraction.py",
+      "title": "Project 6 - Structured JSON Extraction from Invoices",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.projects.eval-harness": {
+      "path": "06-Prompt-Engineering/07-Projects/07-prompt-evaluation-and-comparison.py",
+      "title": "Project 7 - Prompt Evaluation and Comparison Harness",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "prompt-engineering.projects.prompt-management": {
+      "path": "06-Prompt-Engineering/07-Projects/08-production-prompt-management-workflow.py",
+      "title": "Project 8 - Production-Ready Prompt Management Workflow",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "generative-ai.apis.streaming-conversations": {
+      "path": "07-Generative-AI/01-LLM-APIs/01-streaming-and-conversations.py",
+      "title": "Streaming and Conversation State",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "generative-ai.apis.tool-use": {
+      "path": "07-Generative-AI/01-LLM-APIs/02-tool-use-and-function-calling.py",
+      "title": "Tool Use (Function Calling)",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "generative-ai.embeddings.semantic-similarity": {
+      "path": "07-Generative-AI/02-Embeddings/01-embeddings-and-semantic-similarity.py",
+      "title": "Text Embeddings and Semantic Similarity",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "generative-ai.embeddings.vector-search": {
+      "path": "07-Generative-AI/02-Embeddings/02-vector-search.py",
+      "title": "Vector Search and Vector Databases",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "generative-ai.fine-tuning.lora": {
+      "path": "07-Generative-AI/03-Fine-Tuning/01-fine-tuning-and-lora.py",
+      "title": "Fine-Tuning and LoRA",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "rag-agents.rag.pipeline-basics": {
+      "path": "08-RAG-and-Agents/01-RAG/01-rag-pipeline-basics.py",
+      "title": "Retrieval-Augmented Generation (RAG) Basics",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "rag-agents.rag.chunking": {
+      "path": "08-RAG-and-Agents/01-RAG/02-chunking-strategies.py",
+      "title": "Chunking Strategies",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "rag-agents.rag.hybrid-reranking": {
+      "path": "08-RAG-and-Agents/01-RAG/03-hybrid-retrieval-and-reranking.py",
+      "title": "Hybrid Retrieval and Reranking",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "rag-agents.rag.evaluation": {
+      "path": "08-RAG-and-Agents/01-RAG/04-rag-evaluation.py",
+      "title": "Evaluating RAG Systems",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "rag-agents.agents.agent-loop": {
+      "path": "08-RAG-and-Agents/02-Agents/01-agent-loop-with-tools.py",
+      "title": "The Agent Loop",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "rag-agents.agents.memory-planning": {
+      "path": "08-RAG-and-Agents/02-Agents/02-agent-memory-and-planning.py",
+      "title": "Agent Memory and Planning",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "rag-agents.agents.mcp": {
+      "path": "08-RAG-and-Agents/02-Agents/03-model-context-protocol.py",
+      "title": "Model Context Protocol (MCP)",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "rag-agents.agents.evaluation-safety": {
+      "path": "08-RAG-and-Agents/02-Agents/04-agent-evaluation-and-safety.py",
+      "title": "Agent Evaluation and Safety",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "mlops.deployment.fastapi-serving": {
+      "path": "09-MLOps/01-Deployment/01-serving-models-with-fastapi.py",
+      "title": "Serving Models with FastAPI",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "mlops.deployment.docker-config": {
+      "path": "09-MLOps/01-Deployment/02-docker-and-configuration.py",
+      "title": "Docker, Configuration and Secrets",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "mlops.practices.experiment-tracking": {
+      "path": "09-MLOps/02-MLOps-Practices/01-experiment-tracking-and-model-registry.py",
+      "title": "Experiment Tracking and Model Registry",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "mlops.practices.ci-cd": {
+      "path": "09-MLOps/02-MLOps-Practices/02-ci-cd-for-ml-and-llm-apps.py",
+      "title": "CI/CD for ML and LLM Applications",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "mlops.practices.monitoring-drift": {
+      "path": "09-MLOps/02-MLOps-Practices/03-monitoring-and-drift.py",
+      "title": "Monitoring and Data Drift",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "mlops.production.debugging-ai-systems": {
+      "path": "09-MLOps/03-Production-AI/01-debugging-ai-systems.py",
+      "title": "Debugging and Optimizing AI Systems",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    },
+    "mlops.production.capstone": {
+      "path": "09-MLOps/03-Production-AI/02-capstone-project.py",
+      "title": "Capstone - a Production AI Application",
+      "requirements": {
+        "theory": null,
+        "beginner": null,
+        "intermediate": null,
+        "advanced": null,
+        "assessment": null
+      },
+      "lastOpenedAt": null,
+      "missingSince": null
+    }
+  }
+}
